@@ -264,6 +264,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time)** · Reference server that gets the current time and converts times between IANA timezones with no external dependency
 
 <a id="security"></a>
+- **[Dark-Moon](https://github.com/ASCIT31/Dark-Moon)** · Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 ## 🔒 Security
 
 - **[CVE MCP Server](https://github.com/mukul975/cve-mcp-server)** · Correlates CVE, EPSS, CISA KEV, Shodan, and VirusTotal intel into a single composite risk score · $\textcolor{red}{\textsf{fiddly setup}}$
