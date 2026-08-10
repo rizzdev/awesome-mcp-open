@@ -206,6 +206,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Basic Memory](https://github.com/basicmachines-co/basic-memory)** · MCP server that builds a persistent, bidirectional knowledge base from local Markdown files so an AI can read and write durable memory
 - **[Context Portal (ConPort)](https://github.com/GreatScottyMac/context-portal)** · Database-backed memory bank storing project decisions, architecture, and progress as a structured knowledge graph
 - **[Graphiti](https://github.com/getzep/graphiti/tree/main/mcp_server)** · Self-hosted temporal knowledge-graph memory engine for agents, running on your own Neo4j/FalkorDB instance via Docker · $\textcolor{red}{\textsf{fiddly setup}}$
+- **[Hexis](https://github.com/Bevel-Software/Hexis)** 🌿 · Git-backed platform for skills, tools, and context for AI agents, with review workflows, role-based access, and a self-hosted MCP server · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Joplin](https://github.com/alondmnt/joplin-mcp)** · Search, read and write notes in a Joplin instance through its local data API
 - **[Knowledge Graph Memory](https://github.com/shaneholloman/mcp-knowledge-graph)** · Local-first fork of the reference memory server that stores a persistent knowledge graph in a configurable local JSONL file
 - **[Logseq](https://github.com/ergut/mcp-logseq)** · Read, write and query a local Logseq knowledge graph via its Local HTTP API
