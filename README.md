@@ -199,6 +199,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Premiere Pro MCP](https://github.com/leancoderkavy/premiere-pro-mcp)** 🌿 · Controls Adobe Premiere Pro with 269 tools for AI-driven timeline editing, effects, and export · $\textcolor{red}{\textsf{fiddly setup}}$ · $\textcolor{red}{\textsf{heavy}}$
 - **[Unity](https://github.com/CoplayDev/unity-mcp)** · Bridges AI assistants to the Unity Editor to manage assets, control scenes, edit scripts, and automate tasks · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Z-Image Studio](https://github.com/iconben/z-image-studio)** 🌿 · Local CLI, web UI, and MCP server for the Z-Image-Turbo text-to-image model, running fully on your machine · $\textcolor{red}{\textsf{heavy}}$
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** · Composes, edits, captions, and renders videos from local editable plan.json timelines
 
 <a id="memory"></a>
 ## 🧠 Memory
