@@ -248,6 +248,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Bluesky](https://github.com/cyanheads/bluesky-mcp-server)** · MCP server exposing search, profile, feed, thread and trending-topic tools for the Bluesky/AT Protocol public AppView
 - **[LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server)** · Gives agents access to LinkedIn profiles, companies, jobs, and messages via your own logged-in browser session · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Mastodon](https://github.com/VitexSoftware/mastodon-mcp-server)** · MCP server for posting statuses, reading timelines, and managing accounts on any self-hosted Mastodon instance
+- **[OpenPost](https://github.com/getopenpost/openpost)** 🌿 · Self-hosted social publishing app with MCP tools for drafting, reviewing, scheduling, and checking posts · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Postiz](https://github.com/gitroomhq/postiz-app)** · Self-hosted social media scheduler with a built-in MCP server for posting and scheduling across Mastodon, Bluesky, X, LinkedIn and 20+ other networks · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Reddit MCP Buddy](https://github.com/karanb192/reddit-mcp-buddy)** · Browses Reddit posts, searches content, and analyzes user activity with no API key required
 - **[XActions](https://github.com/nirholas/XActions)** 🌿 · Scrapes, posts, and automates X/Twitter accounts through MCP tools, a CLI, and browser scripts, no API keys needed
