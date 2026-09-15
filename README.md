@@ -273,6 +273,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Trivy](https://github.com/aquasecurity/trivy-mcp)** · Official Aqua Security plugin turning Trivy into an MCP server for local vulnerability, misconfiguration and secret scanning of code, containers and repos
 - **[Vault](https://github.com/hashicorp/vault-mcp-server)** · Official HashiCorp MCP server exposing your self-hosted Vault instance's secrets, mounts and policies to AI clients · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Wazuh](https://github.com/gbrigandi/mcp-server-wazuh)** · Rust MCP server bridging a self-hosted Wazuh SIEM/Indexer to AI clients for alert and threat-context queries · $\textcolor{red}{\textsf{fiddly setup}}$
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
