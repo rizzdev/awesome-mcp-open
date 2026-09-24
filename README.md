@@ -186,6 +186,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[fungible](https://github.com/tomfunk/fungible)** 🌿 · Keyboard-first personal-finance TUI with Plaid sync, CSV import, and a built-in MCP server, all run locally
 - **[Ghostfolio](https://github.com/mhajder/ghostfolio-mcp)** · Read and manage portfolio holdings, performance and market data in a self-hosted Ghostfolio instance · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Stripe Agent Toolkit](https://github.com/stripe/ai/tree/main/tools/modelcontextprotocol)** · Expose Stripe payments, invoices, subscriptions and customer operations as MCP tools against your own Stripe account
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** · Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 <a id="design-media"></a>
 ## 🎨 Design & Media
