@@ -154,6 +154,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Shell Server](https://github.com/tumf/mcp-shell-server)** · Execute a whitelisted set of shell commands with stdin support through a secure argv-based MCP interface
 - **[x64dbg MCP](https://github.com/SetsunaYukiOvO/x64dbg-mcp)** 🌿 · Plugin bridging the x64dbg/x32dbg debugger to AI agents over JSON-RPC for remote binary debugging
 
+- **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** 🌿 · Local-first shared work-state for coding agents: presence, claims, messaging, handoffs, and review packets across Claude Code, Cursor, Codex, Gemini, and Grok
 <a id="devops-infra"></a>
 ## 🚢 DevOps & Infra
 
