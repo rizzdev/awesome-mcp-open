@@ -226,6 +226,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Scrumboy](https://github.com/markrai/scrumboy)** 🌿 · Self-hosted kanban and issue tracking with realtime collaboration, automation, and MCP-compatible client support · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior)** · Manage tasks in the local Taskwarrior CLI task manager
 - **[Vikunja](https://github.com/democratize-technology/vikunja-mcp)** · Manage projects, tasks and labels on a self-hosted Vikunja instance · $\textcolor{red}{\textsf{fiddly setup}}$
+- **[Tale](https://github.com/tale-project/tale)** 🌿 · Retrieve knowledge and build, test, deploy, and run automations through the HTTP MCP endpoint of a self-hosted Tale workspace · $\textcolor{red}{\textsf{fiddly setup}}$
 
 <a id="communication"></a>
 ## 💬 Communication
