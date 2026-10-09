@@ -153,6 +153,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Serena](https://github.com/oraios/serena)** · Provides LSP-based semantic code retrieval and editing tools (find symbol, references, rename) across languages · $\textcolor{red}{\textsf{heavy}}$
 - **[Shell Server](https://github.com/tumf/mcp-shell-server)** · Execute a whitelisted set of shell commands with stdin support through a secure argv-based MCP interface
 - **[x64dbg MCP](https://github.com/SetsunaYukiOvO/x64dbg-mcp)** 🌿 · Plugin bridging the x64dbg/x32dbg debugger to AI agents over JSON-RPC for remote binary debugging
+- **[REA](https://github.com/morluto/rea)** · Local reverse-engineering tools for native binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance; native deep analysis can use an existing Ghidra installation, with optional Hopper or IDA adapters · $\textcolor{red}{\textsf{heavy}}$
 
 <a id="devops-infra"></a>
 ## 🚢 DevOps & Infra
