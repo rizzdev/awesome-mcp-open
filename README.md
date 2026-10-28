@@ -153,6 +153,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Serena](https://github.com/oraios/serena)** · Provides LSP-based semantic code retrieval and editing tools (find symbol, references, rename) across languages · $\textcolor{red}{\textsf{heavy}}$
 - **[Shell Server](https://github.com/tumf/mcp-shell-server)** · Execute a whitelisted set of shell commands with stdin support through a secure argv-based MCP interface
 - **[x64dbg MCP](https://github.com/SetsunaYukiOvO/x64dbg-mcp)** 🌿 · Plugin bridging the x64dbg/x32dbg debugger to AI agents over JSON-RPC for remote binary debugging
+- **[mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit)** · Spec-driven development workflow MCP: start_feature / start_bugfix / start_ui orchestrate the flow, plans resume across sessions, and a converge gate requires spec, test and review evidence before a task can close
 
 <a id="devops-infra"></a>
 ## 🚢 DevOps & Infra
