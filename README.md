@@ -153,6 +153,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Serena](https://github.com/oraios/serena)** · Provides LSP-based semantic code retrieval and editing tools (find symbol, references, rename) across languages · $\textcolor{red}{\textsf{heavy}}$
 - **[Shell Server](https://github.com/tumf/mcp-shell-server)** · Execute a whitelisted set of shell commands with stdin support through a secure argv-based MCP interface
 - **[x64dbg MCP](https://github.com/SetsunaYukiOvO/x64dbg-mcp)** 🌿 · Plugin bridging the x64dbg/x32dbg debugger to AI agents over JSON-RPC for remote binary debugging
+- **[Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp)** · Rust + Tauri 2 desktop MCP workspace providing file edits, command and test execution, Git status, and resumable history sessions on a local project
 
 <a id="devops-infra"></a>
 ## 🚢 DevOps & Infra
