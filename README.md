@@ -227,6 +227,8 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior)** · Manage tasks in the local Taskwarrior CLI task manager
 - **[Vikunja](https://github.com/democratize-technology/vikunja-mcp)** · Manage projects, tasks and labels on a self-hosted Vikunja instance · $\textcolor{red}{\textsf{fiddly setup}}$
 
+- **[Signbee](https://github.com/signbee/mcp)** · Send Markdown or PDF documents for two-party electronic signing with SHA-256 cryptographic audit trails and OTP verification
+
 <a id="communication"></a>
 ## 💬 Communication
 
