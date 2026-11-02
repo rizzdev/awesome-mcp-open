@@ -165,6 +165,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Kubernetes (Flux159)](https://github.com/Flux159/mcp-server-kubernetes)** · Manages Kubernetes clusters via kubectl/helm, covering pods, deployments, services, and manifests · $\textcolor{red}{\textsf{heavy}}$
 - **[RootCause](https://github.com/yindia/rootcause)** 🌿 · Local-first server turning natural-language requests into evidence-backed Kubernetes incident diagnostics
 - **[Terraform](https://github.com/hashicorp/terraform-mcp-server)** · Lets agents search Terraform registry providers/modules and run Terraform IaC workflows against your own infrastructure · $\textcolor{red}{\textsf{fiddly setup}}$
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** 🌿 · Local macOS network diagnostics CLI with an MCP server for connection status and troubleshooting · $\textcolor{red}{\textsf{heavy}}$
 
 <a id="cloud-deploy"></a>
 ## ☁️ Cloud & Deploy
