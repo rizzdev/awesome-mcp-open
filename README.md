@@ -274,6 +274,8 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Vault](https://github.com/hashicorp/vault-mcp-server)** · Official HashiCorp MCP server exposing your self-hosted Vault instance's secrets, mounts and policies to AI clients · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Wazuh](https://github.com/gbrigandi/mcp-server-wazuh)** · Rust MCP server bridging a self-hosted Wazuh SIEM/Indexer to AI clients for alert and threat-context queries · $\textcolor{red}{\textsf{fiddly setup}}$
 
+- **[No Stairs Please](https://nostairsplease.com/mcp)** · Read-only MCP server and directory covering small live music venues in all 50 US states and who books them ([nostairsplease.com](https://nostairsplease.com/))
+
 ---
 
 *Last audited 2026-07-22 · 145 servers · open-source & self-hostable only · [Submit a server](contributing.md)*
