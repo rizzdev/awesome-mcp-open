@@ -81,6 +81,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** · Manage indexes, documents and settings and run searches on a self-hosted Meilisearch instance
 - **[Open WebSearch](https://github.com/Aas-ee/open-webSearch)** · Multi-engine web search MCP server scraping Bing, DuckDuckGo, Brave, Startpage and more with no API keys required
 - **[SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng)** · Query a self-hosted or public SearXNG metasearch instance for private, ad-free web search results
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - **[Wigolo](https://github.com/KnockOutEZ/wigolo)** · Local-first web search, fetch, crawl, and research tools for agents with zero API keys or cloud
 
 <a id="browser-automation"></a>
