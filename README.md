@@ -274,6 +274,7 @@ Some of these work fine but come with a catch you'll want to know about first. T
 - **[Vault](https://github.com/hashicorp/vault-mcp-server)** · Official HashiCorp MCP server exposing your self-hosted Vault instance's secrets, mounts and policies to AI clients · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[Wazuh](https://github.com/gbrigandi/mcp-server-wazuh)** · Rust MCP server bridging a self-hosted Wazuh SIEM/Indexer to AI clients for alert and threat-context queries · $\textcolor{red}{\textsf{fiddly setup}}$
 - **[priorart](https://github.com/KhomDev/priorart)** · Local stdio MCP and CLI that searches audit reports and public write-ups for prior art and duplicate findings, fully offline.
+- **[realism-gate](https://github.com/KhomDev/realism-gate)** · Local stdio MCP and CLI that statically checks Foundry, Solana, and Move exploit PoC tests and binds claims to evidence, without running the PoC.
 
 ---
 
